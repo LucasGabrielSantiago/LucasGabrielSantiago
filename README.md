@@ -67,7 +67,7 @@
 
 | Setor | Status | Prova / missão |
 |---|---|---|
-| Cloud (AWS) | ✅ Certificado | Certificação AWS |
+| Cloud (AWS) | ✅ Certificado |AWS Certified Cloud Practitioner|
 | Containers (Docker / Compose) | ✅ Dominado | SaaS completo rodando em produção |
 | Linux, DNS e HTTPS | ✅ Dominado | Servidor, domínio, Let's Encrypt e backup |
 | IaC (Terraform) + Config (Ansible) | ✅ Em prática | Lab de configuration drift |
