@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-Padawan_DevOps-1f6feb?style=for-the-badge" alt="Rank: Padawan DevOps" />
   <img src="https://img.shields.io/badge/Lado-Luz_%28infra_como_c%C3%B3digo%29-1a7f37?style=for-the-badge" alt="Lado: Luz (infra como código)" />
-  <img src="https://img.shields.io/badge/AWS-Certificado-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certificado" />
+  <img src="https://img.shields.io/badge/AWS-Certificado-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
 </p>
 
 <p align="center">
@@ -45,6 +45,13 @@
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" alt="TypeScript, React, Next.js, Tailwind" />
 
+**🎯 Em treinamento (próximas missões)**
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
 <img src="./saber-green.svg" width="100%" alt="" />
 
 ## 🌌 Holocrons · projetos pessoais
@@ -58,7 +65,7 @@
 
 ## 🚀 Rota de hiperespaço · roadmap DevOps
 
-| Setor | Status | Prova |
+| Setor | Status | Prova / missão |
 |---|---|---|
 | Cloud (AWS) | ✅ Certificado | Certificação AWS |
 | Containers (Docker / Compose) | ✅ Dominado | SaaS completo rodando em produção |
@@ -66,7 +73,9 @@
 | IaC (Terraform) + Config (Ansible) | ✅ Em prática | Lab de configuration drift |
 | CI/CD (GitHub Actions) | 🛠️ Em andamento | Deploy automático do SaaS |
 | Kubernetes | 🎯 Próximo salto | Evolução do projeto de escalabilidade |
-| Observabilidade (Prometheus / Grafana) | 🔭 No radar | – |
+| Virtualização (Proxmox VE) | 🔭 Na mira | Homelab com VMs e containers LXC |
+| Monitoramento (Zabbix) | 🔭 Na mira | Monitorar servidores e serviços do homelab |
+| Observabilidade (Grafana) | 🔭 Na mira | Dashboards com as métricas do Zabbix e do SaaS |
 
 <!--
 ## 📡 Sensores da nave
