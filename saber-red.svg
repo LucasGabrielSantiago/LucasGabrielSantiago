@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30">
+<defs>
+<filter id="glow" x="-10%" y="-300%" width="120%" height="700%"><feGaussianBlur stdDeviation="5"/></filter>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d7dde3"/><stop offset=".5" stop-color="#7c858f"/><stop offset="1" stop-color="#3a4048"/></linearGradient>
+</defs>
+<rect x="8" y="8" width="78" height="14" rx="3" fill="url(#metal)"/>
+<rect x="20" y="8" width="4" height="14" fill="#2b3036"/><rect x="28" y="8" width="4" height="14" fill="#2b3036"/><rect x="36" y="8" width="4" height="14" fill="#2b3036"/>
+<rect x="56" y="11" width="10" height="5" rx="1" fill="#ff4d5e"/>
+<rect x="84" y="6" width="6" height="18" rx="1" fill="#555c64"/>
+<rect x="90" y="9" height="12" rx="6" fill="#ff4d5e" filter="url(#glow)" width="0">
+  <animate attributeName="width" from="0" to="800" dur="0.7s" begin="0.3s" fill="freeze"/>
+  <animate attributeName="opacity" values="0.85;1;0.9;1;0.85" dur="1.6s" repeatCount="indefinite"/>
+</rect>
+<rect x="90" y="11.5" height="7" rx="3.5" fill="#ffffff" width="0">
+  <animate attributeName="width" from="0" to="798" dur="0.7s" begin="0.3s" fill="freeze"/>
+</rect>
+</svg>
