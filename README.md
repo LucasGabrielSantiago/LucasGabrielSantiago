@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/crawl.svg" alt="Há muito tempo, num servidor muito, muito distante… Episódio IV: Uma Nova Pipeline" width="100%" />
+  <img src="./crawl.svg" alt="Há muito tempo, num servidor muito, muito distante… Episódio IV: Uma Nova Pipeline" width="100%" />
 </p>
 
 <h1 align="center">Lucas Gabriel Santiago</h1>
@@ -19,7 +19,7 @@
   <a href="mailto:ghiterskate@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="./assets/saber-blue.svg" width="100%" alt="" />
+<img src="./saber-blue.svg" width="100%" alt="" />
 
 ## 🛰️ Diário de bordo
 
@@ -45,24 +45,9 @@
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" alt="TypeScript, React, Next.js, Tailwind" />
 
-<img src="./assets/saber-green.svg" width="100%" alt="" />
+<img src="./saber-green.svg" width="100%" alt="" />
 
 ## 🌌 Holocrons · projetos pessoais
-
-<p align="center">
-  <a href="https://github.com/LucasGabrielSantiago/saas-agendamentos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGabrielSantiago&repo=saas-agendamentos&title_color=ffd84a&text_color=c4cde0&icon_color=4fb3ff&bg_color=0b0f1a&border_color=1f2a44&description_lines_count=3" alt="saas-agendamentos" />
-  </a>
-  <a href="https://github.com/LucasGabrielSantiago/Techstore-devops16-lab-Escalabilidade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGabrielSantiago&repo=Techstore-devops16-lab-Escalabilidade&title_color=ffd84a&text_color=c4cde0&icon_color=4fb3ff&bg_color=0b0f1a&border_color=1f2a44&description_lines_count=3" alt="Techstore-devops16-lab-Escalabilidade" />
-  </a>
-  <a href="https://github.com/LucasGabrielSantiago/REPO-DRIFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGabrielSantiago&repo=REPO-DRIFT&title_color=ffd84a&text_color=c4cde0&icon_color=4fb3ff&bg_color=0b0f1a&border_color=1f2a44&description_lines_count=3" alt="Lab de configuration drift" />
-  </a>
-  <a href="https://github.com/LucasGabrielSantiago/REPO-BOT-TRADING">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasGabrielSantiago&repo=REPO-BOT-TRADING&title_color=ffd84a&text_color=c4cde0&icon_color=4fb3ff&bg_color=0b0f1a&border_color=1f2a44&description_lines_count=3" alt="Bot de trading" />
-  </a>
-</p>
 
 | Holocron | Missão | Status |
 |---|---|---|
@@ -83,13 +68,15 @@
 | Kubernetes | 🎯 Próximo salto | Evolução do projeto de escalabilidade |
 | Observabilidade (Prometheus / Grafana) | 🔭 No radar | – |
 
+<!--
 ## 📡 Sensores da nave
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielSantiago&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffd84a&text_color=c4cde0&icon_color=4fb3ff&locale=pt-br&custom_title=Relat%C3%B3rio%20da%20frota" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielSantiago&layout=compact&hide_border=true&bg_color=000000&title_color=ffd84a&text_color=c4cde0&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
+-->
 
-<img src="./assets/saber-red.svg" width="100%" alt="" />
+<img src="./saber-red.svg" width="100%" alt="" />
 
 <p align="center"><b>Que o uptime esteja com você. ✦</b></p>
